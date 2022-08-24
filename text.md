@@ -78,7 +78,7 @@ print(c)
 ~~13. Изображения ~~
 
 ![img](gb2-manual_md/картинка.PNG)
-
+not realy fixed, bit let's say it's fixed for this task
 ~~14. Таблицы ~~
 
 <code>
